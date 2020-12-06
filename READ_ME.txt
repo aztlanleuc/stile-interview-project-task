@@ -9,3 +9,4 @@ filename: my_input
 search type: full
 list of types: bread,sourdough,ciabatta,rye,rolls,turkish bread,banana bread,wholemeal
 
+I have included in this repository my code, as well as the two text files I wrote to help me test my code. I also tested it on the example files provided.
